@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Mukta:wght@500&family=Zen+Kurenaido&display=swap');
+#Clock {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-weight: 1000;
+    font-size: 200px;
+    color: white;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}

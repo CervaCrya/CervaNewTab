@@ -1,0 +1,15 @@
+#searchbox{
+    width: 700px;
+    height: 50px;
+    background: rgba(0,0,0,0);
+    border: 0px;
+    outline: none;
+    border-bottom: white 8px solid;
+    text-align: center;
+    font-size: 70px;
+    color:white;
+}
+#searcboxD{
+    display: flex;
+    flex-wrap: nowrap;
+}
